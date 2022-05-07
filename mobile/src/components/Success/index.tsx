@@ -1,9 +1,9 @@
 import React from 'react';
 import { View, Image, Text, TouchableOpacity } from 'react-native';
 
-import successImg from '../../assets/success.png';
 import { Copyright } from '../Copyright';
 
+import successImg from '../../assets/success.png';
 import { styles } from './styles';
 
 interface Props {

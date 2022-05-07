@@ -1,4 +1,5 @@
 import { StyleSheet } from 'react-native';
+
 import { theme } from '../../theme';
 
 export const styles = StyleSheet.create({
@@ -15,10 +16,10 @@ export const styles = StyleSheet.create({
   removeIcon: {
     position: 'absolute',
     bottom: 0,
-    right: 0
+    right: 0,
   },
   image: {
     width: 40,
     height: 40,
-  }
+  },
 });
